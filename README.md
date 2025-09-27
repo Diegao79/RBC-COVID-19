@@ -27,17 +27,11 @@ A aplicação foi desenvolvida em **Python** com interface interativa em **Strea
 
 ## 🛠️ Tecnologias Utilizadas
 - [Python 3.10+](https://www.python.org/)
-  
 - [Streamlit](https://streamlit.io/)
-  
 - [Pandas](https://pandas.pydata.org/)
-  
 - [NumPy](https://numpy.org/)
-  
 - [Scikit-Learn](https://scikit-learn.org/)
-  
 - [Plotly](https://plotly.com/python/)
-  
 - [KaggleHub](https://github.com/Kaggle/kagglehub)
 
 ---
@@ -54,18 +48,17 @@ RBC_COVID/
 ## ⚙️ Como Executar
 
 ### 1. Clone o repositório
-```bash
-git clone 
-cd RBC_COVID
+
+git clone https://github.com/Diegao79/RBC-COVID-19.git
+
 2. Crie e ative o ambiente virtual
 No Windows (PowerShell):
 
-powershell
-Copiar código
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
 3. Instale as dependências
+
 pip install -r requirements.txt
 
 4. Execute a aplicação
@@ -80,4 +73,4 @@ Comparar Brasil com outros países em julho/2025 → Moçambique e Gana (~75% de
 Comparar América do Sul em novos casos → Chile, Argentina e Peru aparecem entre os mais semelhantes.
 
 👨‍💻 Autores
-Diego Rafael Muller e Guilherme Massinhani de Souza – Desenvolvimento e documentação
+Diego R. Muller e Guilherme M. de Souza – Desenvolvimento e documentação
