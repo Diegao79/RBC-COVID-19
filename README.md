@@ -27,11 +27,17 @@ A aplicação foi desenvolvida em **Python** com interface interativa em **Strea
 
 ## 🛠️ Tecnologias Utilizadas
 - [Python 3.10+](https://www.python.org/)
+  
 - [Streamlit](https://streamlit.io/)
+  
 - [Pandas](https://pandas.pydata.org/)
+  
 - [NumPy](https://numpy.org/)
+  
 - [Scikit-Learn](https://scikit-learn.org/)
+  
 - [Plotly](https://plotly.com/python/)
+  
 - [KaggleHub](https://github.com/Kaggle/kagglehub)
 
 ---
