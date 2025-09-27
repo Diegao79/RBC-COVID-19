@@ -47,7 +47,6 @@ RBC_COVID/
 │── app.py # Interface Streamlit
 │── rbc.py # Funções de pré-processamento e RBC
 │── requirements.txt # Dependências do projeto
-│── Instrucoes_RBC.txt # Guia completo de instalação e uso
 └── README.md # Este arquivo
 
 ---
